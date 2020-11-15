@@ -1,4 +1,4 @@
-# square_word_game
+# Square Word Game
 This is my first project I am sharing on github :)
 
 I have no IT background or education and I work as lawyer, so be kind with me :)
